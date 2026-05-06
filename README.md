@@ -15,8 +15,8 @@ System Architecture
 
 The environment includes containerized services running via Docker, such as:
 
-Media streaming service (e.g., Plex or equivalent)
-Automation services (e.g., Sonarr / Radarr)
+Media streaming service (Plex)
+Automation services (Sonarr / Radarr)
 File storage and management services
 Testing Objectives
 
