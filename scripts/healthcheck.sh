@@ -28,3 +28,5 @@ else
 fi
 
 echo "" >> $LOGFILE
+echo "TEST PUSH $(date)" >> /mnt/user/projects/media-server-monitor/logs/test.log
+
